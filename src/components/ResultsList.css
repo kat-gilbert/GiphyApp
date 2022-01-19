@@ -1,0 +1,11 @@
+.ResultsList {
+    background-color: black;
+    color: white;
+}
+
+.resultContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #16191d;
+    color: #d9d9d9;
+}
