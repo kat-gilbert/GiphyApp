@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kat-gilbert/giphyapp.git/static/css/main.6958365e.css",
+    "main.js": "/kat-gilbert/giphyapp.git/static/js/main.6dae3b21.js",
+    "static/js/787.7282468e.chunk.js": "/kat-gilbert/giphyapp.git/static/js/787.7282468e.chunk.js",
+    "index.html": "/kat-gilbert/giphyapp.git/index.html",
+    "main.6958365e.css.map": "/kat-gilbert/giphyapp.git/static/css/main.6958365e.css.map",
+    "main.6dae3b21.js.map": "/kat-gilbert/giphyapp.git/static/js/main.6dae3b21.js.map",
+    "787.7282468e.chunk.js.map": "/kat-gilbert/giphyapp.git/static/js/787.7282468e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6958365e.css",
+    "static/js/main.6dae3b21.js"
+  ]
+}
